@@ -1,5 +1,5 @@
 # Current Summary of Evidence
- 
+
  This document summarizes the current evidence status of adjunctive perioperative interventions that supplement standard surgical care across the pre-operative, intra-operative, and post-operative phases—based on the strength, consistency, and clinical relevance of available human data.
 
 Do not use this document as a primary source. Validate all information with the original sources before using it. Any use should be reviewed and directed by your medical care provider and your surgical team.
@@ -8,7 +8,7 @@ Do not use this document as a primary source. Validate all information with the 
 
 ### Zinc
 
-Evidence details: [Zinc Supplementation for Post-Surgical Wound Healing](evidence/supplements/zinc-supplementation-post-surgical-wound-healing.md)
+Evidence details: [Zinc Supplementation for Post-Surgical Wound Healing](supplements/zinc-supplementation-post-surgical-wound-healing.md)
 
 - Treat/avoid zinc deficiency to support wound healing and reduce wound complications. Across older RCT signals plus modern synthesis, benefit is most consistent when baseline zinc is low (deficiency/suboptimal status).
 - Short-term perioperative zinc (typ. ~30–50 mg elemental/day for a few weeks) may improve healing-related outcomes, especially in high-demand states (large wounds/burns/chronic wounds) and may reduce infection/inflammation in some surgical settings.
@@ -18,7 +18,7 @@ Evidence details: [Zinc Supplementation for Post-Surgical Wound Healing](evidenc
 
 ### Methylfolate + Methylcobalamin
 
-Evidence details: [Methylfolate and Methylcobalamin in Surgical Recovery](evidence/supplements/methylfolate-methylcobalamin-surgical-recovery.md)
+Evidence details: [Methylfolate and Methylcobalamin in Surgical Recovery](supplements/methylfolate-methylcobalamin-surgical-recovery.md)
 
 - Preventing/treating deficiency in high-risk groups (e.g., post-bariatric surgery, restrictive diets) is strongly evidence-based as standard care (prevention of anemia/neuropathy), though not proven as a “recovery accelerator.”
 - Perioperative B12 adequacy is clinically important when nitrous oxide (N₂O) is used, because N₂O can inactivate B12 and precipitate neurologic injury in deficient patients (benefit is harm prevention, not faster healing).
@@ -29,7 +29,7 @@ Evidence details: [Methylfolate and Methylcobalamin in Surgical Recovery](eviden
 
 ### Caffeine / Coffee (post-op)
 
-Evidence details: [Caffeine Use After Surgery and Recovery Outcomes](evidence/diet-and-lifestyle/caffeine-use-after-surgery-recovery-outcomes.md)
+Evidence details: [Caffeine Use After Surgery and Recovery Outcomes](diet-and-lifestyle/caffeine-use-after-surgery-recovery-outcomes.md)
 
 - Postoperative coffee to speed GI recovery after abdominal surgery (multiple RCTs/meta-analyses): earlier bowel function, reduced ileus risk, and shorter LOS in several populations (colorectal/gynecologic/C-section).
 - Analgesic adjuvant: adding caffeine to standard analgesics modestly improves pain relief (Cochrane-level evidence).
@@ -43,7 +43,7 @@ Evidence details: [Caffeine Use After Surgery and Recovery Outcomes](evidence/di
 
 ### Bromelain for Oral/Maxillofacial and Bone-Involving Facial Surgery
 
-Evidence details: [Bromelain for Oral, Maxillofacial, and Bone-Involving Facial Surgery](evidence/supplements/bromelain-oral-maxillofacial-bone-surgery.md)
+Evidence details: [Bromelain for Oral, Maxillofacial, and Bone-Involving Facial Surgery](supplements/bromelain-oral-maxillofacial-bone-surgery.md)
 
 - Postoperative pain reduction after oral/maxillofacial procedures has moderate-to-strong support: meta-analysis of 6 RCTs in third molar surgery showed significant pain reduction at 24 hours and 7 days (SMD -0.49 to -0.52), comparable to NSAIDs.
 - Bruise/ecchymosis resolution is procedure-dependent: significant benefit in rhinoplasty with osteotomies (RCT, p=0.012 by day 7); no significant effect in blepharoplasty (p=0.67). Efficacy correlates with fibrin-rich hematoma volume from bone trauma.
@@ -53,7 +53,7 @@ Evidence details: [Bromelain for Oral, Maxillofacial, and Bone-Involving Facial 
 
 ### Collagen peptides + Vitamin C
 
-Evidence details: [Collagen Peptides + Vitamin C for Post-FFS Healing and Bruising](evidence/supplements/collagen-peptides-vitamin-c-post-ffs-healing-bruising.md)
+Evidence details: [Collagen Peptides + Vitamin C for Post-FFS Healing and Bruising](supplements/collagen-peptides-vitamin-c-post-ffs-healing-bruising.md)
 
 - Collagen peptides: RCT evidence in high-demand wound contexts (e.g., burns; pressure ulcers) suggests faster wound closure/improved wound scores.
 - Vitamin C: RCT evidence in oral surgery indicates reduced early swelling/pain and improved short-term wound parameters; correcting insufficiency is biologically and clinically important.
@@ -65,7 +65,7 @@ Evidence details: [Collagen Peptides + Vitamin C for Post-FFS Healing and Bruisi
 
 ### Astaxanthin (pre-op use)
 
-Evidence details: [Astaxanthin Use Before Surgery - Evidence and Considerations](evidence/supplements/astaxanthin-use-before-surgery-evidence-considerations.md)
+Evidence details: [Astaxanthin Use Before Surgery - Evidence and Considerations](supplements/astaxanthin-use-before-surgery-evidence-considerations.md)
 
 - No strong or moderate perioperative RCT evidence showing improved surgical outcomes.
 - Limited human perioperative evidence (small, non-randomized cataract surgery studies) suggests reduced local oxidative stress and lower early post-op inflammation.
@@ -75,7 +75,7 @@ Evidence details: [Astaxanthin Use Before Surgery - Evidence and Considerations]
 
 ### BPC-157 for Improving Surgical Outcomes and Recovery
 
-Evidence details: [BPC-157 for Improving Surgical Outcomes and Recovery](evidence/supplements/bpc-157-improving-surgical-outcomes-recovery.md)
+Evidence details: [BPC-157 for Improving Surgical Outcomes and Recovery](supplements/bpc-157-improving-surgical-outcomes-recovery.md)
 
 - Rationale/preclinical:** Strong and consistent animal/in vitro signals across multiple tissue types (skin incisions/burns, tendon/ligament, muscle-to-bone repair, fractures/bone defects, GI anastomosis and fistulas), including improved collagen organization, angiogenesis, and tensile/biomechanical strength.
 - Human evidence is early/low quality for perioperative use:** Human data consist mainly of a Phase I safety study (short-term oral exposure) and small pilot/observational reports in non-surgical or not-clearly-perioperative contexts (e.g., knee pain injections; bladder pain/interstitial cystitis intravesical injection). These do **not** establish that BPC-157 improves routine surgical wound healing, swelling/bruising, infection rates, scar quality, or recovery time in typical surgical patients.
@@ -87,7 +87,7 @@ Evidence details: [BPC-157 for Improving Surgical Outcomes and Recovery](evidenc
 
 ### Progesterone (post-FFS “sodium/sleep/healing”)
 
-Evidence details: [Progesterone After Facial Feminization Surgery - Sodium and Sleep Effects](evidence/hormones/progesterone-after-facial-feminization-surgery-sodium-sleep-effects.md)
+Evidence details: [Progesterone After Facial Feminization Surgery - Sodium and Sleep Effects](hormones/progesterone-after-facial-feminization-surgery-sodium-sleep-effects.md)
 
 - No controlled human surgical trials demonstrating progesterone improves wound healing, swelling, bruising, or overall recovery after surgery/FFS.
 - Sleep improvement: moderate evidence in perimenopausal cis women (and meta-analytic support for some sleep parameters) that oral micronized progesterone can improve perceived sleep—this is not surgical evidence and may not generalize.
@@ -101,7 +101,7 @@ Evidence details: [Progesterone After Facial Feminization Surgery - Sodium and S
 
 ### Low-carbohydrate / Ketogenic diets (peri- and post-op)
 
-Evidence details: [Low-Carbohydrate Diets After Surgery - Evidence and ERAS Guidelines](evidence/diet-and-lifestyle/low-carbohydrate-diets-after-surgery-evidence-eras-guidelines.md)
+Evidence details: [Low-Carbohydrate Diets After Surgery - Evidence and ERAS Guidelines](diet-and-lifestyle/low-carbohydrate-diets-after-surgery-evidence-eras-guidelines.md)
 
 - None for surgical recovery; evidence-based periop nutrition practices generally go the opposite direction (ERAS carbohydrate strategies).
 - Keto can reduce chronic inflammatory markers in non-surgical populations, but this is not evidence of benefit in acute surgical healing.
@@ -110,7 +110,7 @@ Evidence details: [Low-Carbohydrate Diets After Surgery - Evidence and ERAS Guid
 
 ### High-dose Vitamin D (for bone healing)
 
-Evidence details: [High-Dose Vitamin D and Post-Surgical Bone Healing](evidence/supplements/high-dose-vitamin-d-post-surgical-bone-healing.md)
+Evidence details: [High-Dose Vitamin D and Post-Surgical Bone Healing](supplements/high-dose-vitamin-d-post-surgical-bone-healing.md)
 
 - Correct vitamin D deficiency to support normal bone health (standard of care rationale), but this is distinct from “high-dose for faster healing.”
 - Limited: one small lumbar fusion RCT suggests possible faster time-to-fusion and better early pain/function with modest dosing (800 IU/day) plus calcium, but not clearly improved final fusion rates.
