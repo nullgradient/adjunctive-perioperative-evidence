@@ -24,11 +24,17 @@ All commit messages MUST follow the [Conventional Commits](https://www.conventio
 
 **Required Commit Types:**
 
-- `feat`: New feature (MINOR version)
-- `fix`: Bug fix (PATCH version)
+- `feat`: New feature
+  - For this repo: New evidence documents or significant content additions to existing evidence
+  - The documentation IS the product - new evidence documents are features
+- `fix`: Bug fix
+  - For this repo: Corrections to factual errors, broken citations, or formatting issues in evidence documents
 - `docs`: Documentation changes
+  - For this repo: Changes to meta-documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+  - NOT for evidence documents - those are `feat` or `fix`
 - `style`: Code style/formatting (no logic changes)
 - `refactor`: Code restructuring (no feature/bug changes)
+  - For this repo: Reorganizing evidence structure or renaming files without changing content
 - `perf`: Performance improvements
 - `test`: Adding or updating tests
 - `build`: Build system or dependencies
@@ -49,6 +55,17 @@ docs: update README
 refactor(api)!: remove deprecated endpoints
 
 BREAKING CHANGE: removes v1 API support
+```
+
+**Evidence Repository Examples:**
+
+```text
+feat(supplements): add bromelain evidence for oral surgery
+feat(hormones): add progesterone post-FFS sodium effects
+fix(supplements): correct zinc dosage recommendations
+fix(diet): update caffeine study citation
+docs: clarify contribution guidelines
+refactor(supplements): reorganize vitamin documents by category
 ```
 
 ### Commit Message Style
