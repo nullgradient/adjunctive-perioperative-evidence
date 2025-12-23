@@ -61,6 +61,16 @@ Evidence details: [Collagen Peptides + Vitamin C for Post-FFS Healing and Bruisi
 - No direct trials in FFS demonstrating improved cosmetic outcomes, scar quality, or complication reduction.
 - **⚠️Risks/cautions:** Generally low risk. Allergy/source issues (marine collagen in fish-allergic individuals). High-dose vitamin C can cause GI upset and may increase kidney stone risk in predisposed individuals. No clear bleeding-risk signal at typical doses.
 
+### LLLT (Low-Level Light Therapy) / LED Face Masks
+
+Evidence details: [LLLT Face Masks for Wound Healing and Scar Reduction](mechanisms/lllt-face-masks-wound-healing-scar-reduction.md)
+
+- **Strength of evidence:** Moderate. Multiple trials and analyses indicate that LLLT can enhance early wound healing and improve scar pliability, but effects on final scar appearance are variable. Meta-analyses show significant improvements in wound closure rates and healing outcomes. Controlled trials of surgical scars report measurable gains (softer scars, better patient/observer scores) in many cases. However, not all studies are positive, and benefits tend to be modest, cumulative, and dependent on consistent use. In practical terms, LLLT is not a miracle cure – it "may reduce scarring" and speed up early remodeling, but cannot erase mature scars.
+- **Evidence of harm:** None significant. No serious adverse effects have been reported in trials; only minor, transient skin redness or warmth is typical. Because of this high safety, LLLT is generally considered low-risk as an adjunctive therapy.
+- **Overall recommendation:** There is moderate evidence that adjunctive LLLT (e.g., red/NIR LED treatments) can benefit post-operative skin recovery by reducing inflammation and improving scar quality over time. Given its excellent safety profile and the supporting mechanistic rationale, LLLT face masks are a reasonable option to use after surgery for additional healing support. Patients should keep expectations realistic (improvements are gradual) and continue standard scar care (silicone, massage, sunscreen) alongside. For individuals who can commit to regular use, LLLT is worth trying as a gentle adjunct; for those unable or unwilling, skipping it will not harm healing – surgical scars generally improve on their own.
+
+Assessment: Moderate evidence of benefit, minimal risk. Controlled studies and reviews suggest a beneficial effect of LLLT on wound healing and scar maturation, though results vary. Clinicians describe the therapy as a "promising strategy" to nudge scar remodeling in a better direction. There is no credible evidence of harm in the literature. In summary, LLLT/LED masks are an evidence-backed, low-risk adjunct to support skin healing after surgery – they "may reduce scarring" as shown in trials – but they should be viewed as an added boost, not a replacement for proven scar treatments.
+
 ## 🟡 Limited or Mixed Evidence for Use
 
 ### Astaxanthin (pre-op use)
